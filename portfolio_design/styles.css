@@ -55,6 +55,53 @@ a:hover{
 }
 .logos{
     padding: 50px;
-    align-self: cer;
 }
 
+
+@media screen and (max-width: 768px) {
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #2B3748;
+        background-position: 100%;
+        padding: 10%;
+        margin: 10px;
+    }
+    .name {
+        font-size: 24px;
+        align-content: center; 
+    }
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    .left{
+        align-items: center;
+    }
+    .right{
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .home{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        content: normal;
+    }
+    .home-a{
+        align-items: center;
+        
+    }
+    .home-b{
+        width: 100%;
+        height: auto;
+    }
+    .home-b img {
+        width: 100%;
+        height: auto;
+      }
+  }
