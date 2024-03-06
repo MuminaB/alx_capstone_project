@@ -14,8 +14,17 @@ brief description of yourselffor viewers to know who you are.
 It should also have links to your professional social media pages for anyone 
 wanting to view your social media presence.
 
-Features and Functionality:
-List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
+>>>Required Tasks:
+
+--Design and implement a visually appealing and user-friendly website layout using HTML and CSS.
+--Include sections for an “about me”, skills, projects, and contact information.
+--Display your projects with brief descriptions, images, and links to live demos or source code repositories.
+--Implement responsive design to ensure the website looks good on different devices.
+--Add a contact form for visitors to reach out to you.
+--Validate the form inputs on the server-side to ensure they are not empty and meet any required criteria (e.g., valid email format).
+--Send an email notification to your specified email address when a form is submitted, containing the visitor’s information.
+--Features and Functionality:
+--List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
 
 >>>> HomePage, About Page, Projects Page, Skills/Experience, Contacts Page and a footer
 
@@ -37,5 +46,7 @@ Share any future plans or potential improvements for the project. This could inc
 Contact information:
 Include your name, along with contact information or links to personal portfolios or social media profiles.
 
->>>> Would be added
+>>>> Future enhancements
+
+
   
