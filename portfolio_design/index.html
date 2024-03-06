@@ -5,8 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+        (function(){
+            emailjs.init({
+                publicKey: "z5AAkNlvJRVk_N003",
+            });
+        })();
+    </script>
 </head>
 <body>
+    
+
     <section class="section">
         <header>
             <div class="left">
@@ -29,6 +42,11 @@
                     <p style="font-size: 60px;">Muminatou Barrow</p>
                     <p style="font-size: 24px; color: #9747FF;">Computer Engineering Student | Web Developer</p>
                     <p style="font-size: 30px;">Passionate Computer Engineering Student Eager to Innovate with a Flair for Creativity!</p>
+                </div>
+                
+                <div class="logos">
+                    <a href="https://www.linkedin.com/in/muminatou-barrow-30571a1b3/"><img src="/images/linkedin.png" alt="linkedIn-logo"></a>
+                    <a href="https://github.com/MuminaB/"><img src="/images/github_logo.png" alt="github-logo"></a>
                 </div>
                 <!--
                 <div class="name">
@@ -180,7 +198,7 @@
                     <input type="text" name="name" placeholder="Name" required>
                     <input type="email" name="email" placeholder="Email Address" required>
                     <textarea name="message" id="message" placeholder="Your message" cols="22" rows="10"></textarea>
-                    <button type="submit" class="btn2" onclick="sendMail">Submit</button>
+                    <button type="submit" class="btn2" onclick="sendMail()">Submit</button>
                 </form>
             </div>
 
@@ -191,16 +209,7 @@
     <footer class="footer">
 
     </footer>
-    <script type="text/javascript"
-        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
-    </script>
-    <script type="text/javascript">
-    (function(){
-        emailjs.init({
-            publicKey: "CkfCPoeB2eT6llm5p",
-        });
-    })();
-    </script>
+   
    <script src="script.js"></script> 
 </body>
 </html>
