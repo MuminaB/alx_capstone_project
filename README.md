@@ -9,10 +9,10 @@ Include sections for an “about me”, skills, projects, and contact informatio
 Display projects with brief descriptions, images, and links to live demos or source code repositories.
 
 Overview>>> As a web developer, it is very important to have a portfolio where
-your most important projects could be displayed. this portfolio also would have a 
-brief description of yourselffor viewers to know who you are.
+your most important projects could be displayed. This portfolio also would have a 
+brief description of yourself for viewers to know who you are.
 It should also have links to your professional social media pages for anyone 
-wanting to view your social media presence.
+wanting to view and know about your social media presence.
 
 >>>Required Tasks:
 
@@ -26,27 +26,29 @@ wanting to view your social media presence.
 --Features and Functionality:
 --List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
 
->>>> HomePage, About Page, Projects Page, Skills/Experience, Contacts Page and a footer
+>>>> HomePage, About Page, Projects Page, Skills/Experience, Contacts Page 
 
 Technologies Used:
 Specify the technologies, frameworks, and languages used in the project. This can include HTML, CSS, JavaScript, Python, specific libraries, or frameworks like Flask, and any other tools or services utilized.
 
->>>> Figma for design, HTML, CSS, JavaScript
+>>>> Figma for design, HTML, CSS,
 
 Screenshots or Demo:
 Include screenshots or a link to a live demo if available. Visual representations can help readers understand the project’s appearance and functionality.
+
+![alt text](image.png)
 
 >>>>
 
 Roadmap and future enhancements:
 Share any future plans or potential improvements for the project. This could include additional features, performance optimizations, or scalability considerations.
 
->>>>
+>>>>My future projects would be added. 
+--- Any update to the present projects also would be added. 
+--- Skills learnt in the future would be added
+--- Host my website on a hosting service platform and own a domain for it
 
 Contact information:
 Include your name, along with contact information or links to personal portfolios or social media profiles.
-
->>>> Future enhancements
-
 
   
