@@ -14,6 +14,7 @@ brief description of yourself for viewers to know who you are.
 It should also have links to your professional social media pages for anyone 
 wanting to view and know about your social media presence.
 
+
 >>>Required Tasks:
 
 --Design and implement a visually appealing and user-friendly website layout using HTML and CSS.
@@ -37,6 +38,8 @@ Screenshots or Demo:
 Include screenshots or a link to a live demo if available. Visual representations can help readers understand the project’s appearance and functionality.
 
 ![alt text](image.png)
+![alt text](Visuals/image.png)
+
 
 >>>>
 
@@ -50,5 +53,7 @@ Share any future plans or potential improvements for the project. This could inc
 
 Contact information:
 Include your name, along with contact information or links to personal portfolios or social media profiles.
+<video controls src="Visuals/My-Portfolio-Final.mp4" title="My Portfolio"></video>
 
+C:\Users\user\alx_capstone_project\alx_capstone_project\Visuals\My-Portfolio-Final.mp4
   
