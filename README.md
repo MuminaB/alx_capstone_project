@@ -55,5 +55,5 @@ Contact information:
 Include your name, along with contact information or links to personal portfolios or social media profiles.
 <video controls src="Visuals/My-Portfolio-Final.mp4" title="My Portfolio"></video>
 
-C:\Users\user\alx_capstone_project\alx_capstone_project\Visuals\My-Portfolio-Final.mp4
+<video controls src="Visuals/My-Portfolio-Final.mp4" title="My Portfolio"></video>
   
